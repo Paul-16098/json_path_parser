@@ -1,5 +1,7 @@
 # json_path_parser
 
+zh-cn | [en](README.md)
+
 这是一个用于 JSON 路径检索和错误处理的 Rust 库。它提供了一个强大的 API，用于根据指定路径从 JSON 数据中提取值，同时确保结构化的错误处理。
 
 ## 技术栈

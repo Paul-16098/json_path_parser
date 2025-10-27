@@ -1,5 +1,7 @@
 # json_path_parser
 
+[zh-cn](README.zh-cn.md) | en
+
 this is a Rust library designed for JSON path retrieval and error handling. It provides a robust API for extracting values from JSON data based on specified paths, while ensuring structured error handling.
 
 ## Technology Stack
